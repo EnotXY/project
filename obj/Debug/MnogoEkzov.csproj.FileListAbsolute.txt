@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\MnogoEkzov\bin\Debug\MnogoEkzov.exe.config
+C:\Users\student\source\repos\MnogoEkzov\bin\Debug\MnogoEkzov.exe
+C:\Users\student\source\repos\MnogoEkzov\bin\Debug\MnogoEkzov.pdb
+C:\Users\student\source\repos\MnogoEkzov\obj\Debug\MnogoEkzov.csprojAssemblyReference.cache
+C:\Users\student\source\repos\MnogoEkzov\obj\Debug\MnogoEkzov.Form1.resources
+C:\Users\student\source\repos\MnogoEkzov\obj\Debug\MnogoEkzov.Properties.Resources.resources
+C:\Users\student\source\repos\MnogoEkzov\obj\Debug\MnogoEkzov.csproj.GenerateResource.cache
+C:\Users\student\source\repos\MnogoEkzov\obj\Debug\MnogoEkzov.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\MnogoEkzov\obj\Debug\MnogoEkzov.exe
+C:\Users\student\source\repos\MnogoEkzov\obj\Debug\MnogoEkzov.pdb
